@@ -35,6 +35,7 @@
     "chai": "^3.5.0",
     "eslint": "^2.9.0",
     "eslint-config-naturalatlas": "^1.0.0",
+    "mapnik": "^3.5.14",
     "mocha": "^2.4.5"
   },
   "peerDependencies": {
