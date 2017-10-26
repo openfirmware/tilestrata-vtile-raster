@@ -37,6 +37,7 @@
     "eslint-config-naturalatlas": "^1.0.0",
     "mapnik": "^3.5.14",
     "mocha": "^2.4.5",
+    "node-pre-gyp": "^0.6.38",
     "tilestrata": "^2.0.2"
   },
   "peerDependencies": {
